@@ -1,6 +1,6 @@
 # Hola, soy Andrés 👋
 
-![Banner con código y gatos](./gato.png)
+![Banner con código y gatos](./gato.webp)
 
 ## Quién Soy 🌟
 
