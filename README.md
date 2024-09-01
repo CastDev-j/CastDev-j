@@ -1,7 +1,5 @@
 # Hola, soy AndDev 👋
 
-![Banner con código y gatos](./gato.webp)
-
 ## Quién Soy 🌟
 
 ¡Bienvenidos a mi espacio en GitHub! Mi nombre es Andrés, un entusiasta del desarrollo de software con una pasión especial por los datos y el diseño web. Me encanta combinar la lógica con la creatividad para crear soluciones que no solo funcionen bien, sino que también se vean bien.
