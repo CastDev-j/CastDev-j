@@ -50,8 +50,8 @@ Me encanta mejorar mis habilidades en algoritmos y estructuras de datos en LeetC
 
 ## 📊 GitHub Stats
 
-![AndDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=cAndDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cAndDev&layout=compact&theme=tokyonight)
+![CastDev-j's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=tokyonight)
 
 ---
 
