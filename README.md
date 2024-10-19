@@ -1,6 +1,16 @@
 # Hola, soy AndDev 👋
 
-¡Bienvenidos a mi repositorio de GitHub! 🚀 Soy Andrés, un desarrollador apasionado por la tecnología, los datos y el diseño web. Me encanta encontrar el equilibrio perfecto entre la lógica y la creatividad, siempre buscando soluciones que funcionen bien y se vean increíbles.
+---
+
+## 📊 GitHub Stats
+
+![CastDev-j's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=tokyonight)
+
+---
+
+¡Bienvenidos a mi repositorio de GitHub! 🚀  
+Soy Andrés, un desarrollador apasionado por la tecnología, los datos y el diseño web. Me encanta encontrar el equilibrio perfecto entre la **lógica** y la **creatividad**, siempre buscando soluciones que funcionen bien y se vean increíbles.
 
 ---
 
@@ -12,7 +22,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  
+
 ### Frameworks y Librerías:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -35,7 +45,7 @@
 
 ## 🌱 En constante aprendizaje
 
-Siempre estoy en búsqueda de nuevos retos. Actualmente, me estoy perfeccionando en:
+Actualmente me estoy perfeccionando en:
 - **TypeScript avanzado**
 - **Optimización de aplicaciones web con Vite**
 - **Buenas prácticas en arquitectura de software**
@@ -44,20 +54,15 @@ Siempre estoy en búsqueda de nuevos retos. Actualmente, me estoy perfeccionando
 
 ## 🏆 Mi progreso en LeetCode
 
-Me encanta mejorar mis habilidades en algoritmos y estructuras de datos en LeetCode. Puedes ver mi perfil aquí: [LeetCode Profile](https://leetcode.com/u/cAndDev/) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![CastDev-j's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=tokyonight)
+Me encanta mejorar mis habilidades en algoritmos y estructuras de datos en LeetCode.  
+Puedes ver mi perfil aquí: [LeetCode Profile](https://leetcode.com/u/cAndDev/)  
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
 ---
 
 ## 📫 ¡Conecta Conmigo!
 
 - **Email:** andres2004_cj@outlook.com
-- **LinkedIn:** [Andrés Dev]([https://www.linkedin.com/in/andresdev](https://www.linkedin.com/in/andres-castillo-jimenez-249210292/))
+- **LinkedIn:** [Andrés Dev](https://www.linkedin.com/in/andres-castillo-jimenez-249210292/)
 
 ¡Gracias por visitar mi perfil! 😊👨‍💻
