@@ -4,8 +4,25 @@
 
 ## 📊 GitHub Stats
 
-![CastDev-j's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=tokyonight)
+![CastDev-j's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j)
+
+---
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/cAndDev?theme=default&font=baloo&extension=null)
+
+---
+
+## 📈 Wakatime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CastDev_j)
 
 ---
 
@@ -14,4 +31,4 @@ Soy Andrés, un desarrollador apasionado por la tecnología, los datos y el dise
 
 ---
 
-## [Visita Mi Portafolio 🥇](https://castdev-j.netlify.app/) 
+## [Visita Mi Portafolio 🥇](https://castdev-j.netlify.app/)
