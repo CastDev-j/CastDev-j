@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Wakatime Stats
+## 📈 Wakatime Stats (from 22-dec-2024)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CastDev_j&theme=dark)
 
