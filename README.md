@@ -17,7 +17,7 @@
 
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/cAndDev?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)
 
 ---
 
