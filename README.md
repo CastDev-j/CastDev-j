@@ -1,35 +1,35 @@
-# Hola, soy CasDev 👋
+# Hola, soy CasDev
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![CasDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=dark)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j&theme=dark)
 
 ---
 
-## 💻 LeetCode Stats
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)
 
 ---
 
-## 📈 Wakatime Stats (from 22-dec-2024)
+## Wakatime Stats (from 10-dec-2024)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CastDev_j&theme=dark)
-
----
-
-¡Bienvenidos a mi repositorio de GitHub! 🚀  
-Soy Andrés, un desarrollador apasionado por la tecnología, los datos y el diseño web. Me encanta encontrar el equilibrio perfecto entre la **lógica** y la **creatividad**, siempre buscando soluciones que funcionen bien y se vean increíbles.
+[![wakatime](https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg)](https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f)
 
 ---
 
-## [Visita Mi Portafolio 🥇](https://castdev-j.netlify.app/)
+¡Bienvenidos a mi repositorio de GitHub!
+Soy Andrés, desarrollador frontend. Me encanta encontrar pasar horas probando cosas nuevas, siempre buscando soluciones que funcionen bien y se vean bien.
+
+---
+
+## [Visita Mi Portafolio](https://castdev-j.netlify.app/)
