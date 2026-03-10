@@ -4,6 +4,7 @@
 
 ## GitHub Stats
 
+![CasDev's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=CastDev-j)
 ![CasDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastDev-j&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastDev-j&layout=compact&theme=dark)
 
