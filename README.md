@@ -11,10 +11,19 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CastDev-j&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&hide_border=true)](https://github.com/CastDev-j)
+  <div>
+    <a href="https://github.com/CastDev-j">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CastDev-j&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&hide_border=true" width="400" />
+    </a>
+  </div>
 
-<br>
+  <br>
 
-[![wakatime](https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg)](https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f)
+  <div>
+    <a href="https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f">
+      <img src="https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg" />
+    </a>
+  </div>
+
 
 </div>
