@@ -11,3 +11,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg)](https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f)
 
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CastDev-j&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&hide_border=true)](https://github.com/CastDev-j)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+  [![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)](https://leetcode.com/castdev-j)
+  
+  [![wakatime](https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg)](https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f)
+  
+</div>
