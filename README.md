@@ -1,11 +1,11 @@
 
 ![CasDev's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=CastDev-j&theme=road_trip&pixelate_avatar=false)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Dale+una+estrellita+a+mis+repos)](https://git.io/typing-svg)
+"[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Drop+a+star+on+my+repos!)](https://git.io/typing-svg)
 
 <div align="center">
 
-| Mi rachita | Mi LeetCode |
+| My Streak | My LeetCode |
 |:---:|:---:|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)](https://leetcode.com/castdev-j) |
 
