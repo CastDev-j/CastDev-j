@@ -7,7 +7,7 @@
 
 | My Streak | My LeetCode |
 |:---:|:---:|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)](https://leetcode.com/castdev-j) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=CastDev-j&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![LeetCode Stats](https://leetcode.card.workers.dev/castdev-j?theme=dark&font=baloo&extension=null)] |
 
 <br>
 
