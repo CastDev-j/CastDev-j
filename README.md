@@ -1,9 +1,12 @@
-
 ![CasDev's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=CastDev-j&theme=road_trip&pixelate_avatar=false)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Drop+a+star+on+my+repos!)](https://git.io/typing-svg)
 
 <div align="center">
+
+[![My Stack](https://skillicons.dev/icons?i=ts,react,reactrouter,nextjs,astro,threejs,nodejs,bun,prisma,vite,tailwind,vscode,git,github&perline=14)](https://skillicons.dev)
+
+<br>
 
 | My Streak | My LeetCode |
 |:---:|:---:|
@@ -11,15 +14,8 @@
 
 <br>
 
-[![My Stack](https://skillicons.dev/icons?i=ts,react,css,nextjs,astro,threejs,nodejs,bun,prisma,vite,tailwind,vscode,git,github&perline=7)](https://skillicons.dev)
-
-  <br>
-
-  <div>
-    <a href="https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f">
-      <img src="https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg" />
-    </a>
-  </div>
-
+<a href="https://wakatime.com/@fb02d93a-6472-4fe4-809a-a7197324482f">
+  <img src="https://wakatime.com/badge/user/fb02d93a-6472-4fe4-809a-a7197324482f.svg" />
+</a>
 
 </div>
