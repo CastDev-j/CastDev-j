@@ -11,11 +11,7 @@
 
 <br>
 
-  <div>
-    <a href="https://github.com/CastDev-j">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CastDev-j&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&hide_border=true" width="400" />
-    </a>
-  </div>
+[![My Stack](https://skillicons.dev/icons?i=ts,react,css,nextjs,astro,threejs,nodejs,bun,prisma,vite,tailwind,vscode,git,github&perline=7)](https://skillicons.dev)
 
   <br>
 
