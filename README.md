@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![My Stack](https://skillicons.dev/icons?i=ts,react,css,nextjs,astro,threejs,nodejs,bun,prisma,vite,tailwind,vscode,git,github&perline=14)](https://skillicons.dev)
-
+[![My Stack](https://skillicons.dev/icons?i=html,css,ts,react,nextjs,astro,vite,tailwind,threejs,nodejs,bun,prisma,git,github,vscode&perline=16)](https://skillicons.dev)
 <br>
 
 | My Streak | My LeetCode |
